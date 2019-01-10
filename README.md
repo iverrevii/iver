@@ -42,3 +42,4 @@ This makes it easy to use relative addresses in hrefs of html files, so long
 as you continue this directory structure of placing static files in /static
 directory and the html in the views/pages/ directory and the reusable html
 in the /views/partials/ directory
+# botor
